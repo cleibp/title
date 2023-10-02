@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, #26d0ce, #1a2980);
+}
+
+.title {
+    background-color: purple;
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 15px 10px violet;
+}
