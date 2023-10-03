@@ -25,7 +25,7 @@ Exemplificação de Title
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
